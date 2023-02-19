@@ -15,14 +15,7 @@
 
 ### Overview
   
-Smart watch landing page, this is full responsive 🚀
-
-resource file: https://www.figma.com/file/BKmfaSIKF1A75Vk3xxE5Qq/Untitled?node-id=0%3A1&t=0Umv11Cdj6JLe8jf-1
-
-
-### Resource
-
-Figma file: https://www.figma.com/file/6EHiaFcKwHqSe5R6O6XRsE/Smart-Watch-eCommerce-Website-(Community)?node-id=4%3A8&t=sMaTKb3raVrT4VdG-1
+hoster starter files page, full responsive 🚀
 
 
 ### Screenshot
