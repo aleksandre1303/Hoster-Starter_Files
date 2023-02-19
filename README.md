@@ -22,8 +22,8 @@ hoster starter files page, full responsive 🚀
 
 ### Links
 
-- Solution URL:  https://github.com/aleksandre1303/testimonial-grid-section 
-- Live Site URL: https://aleksandre1303.github.io/smartwatch-website/
+- Solution URL:  https://github.com/aleksandre1303/Hoster-Starter_Files 
+- Live Site URL: https://aleksandre1303.github.io/Hoster-Starter_Files/
 
 
 ## Author
